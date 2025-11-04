@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/mim.jpg</file>
+        <file>image/mim2.jpg</file>
+        <file>image/mim3.jpg</file>
+        <file>image/mim4.jpg</file>
+        <file>image/mim5.jpg</file>
+        <file>image/mim6.jpg</file>
+        <file>image/mim8.jpg</file>
+        <file>image/mim9.jpg</file>
+        <file>image/mim10.jpg</file>
+        <file>image/mim7.jpg</file>
+        <file>image/mim11.jpg</file>
+        <file>image/mim12.jpg</file>
+        <file>image/mim14.jpg</file>
+        <file>image/mim13.jpg</file>
+        <file>image/mim17.jpg</file>
+        <file>image/mim15.jpg</file>
+        <file>image/mim16.jpg</file>
+        <file>image/mim18.jpg</file>
+        <file>image/mim20.jpg</file>
+        <file>image/mim19.jpg</file>
+        <file>image/mim21.jpg</file>
+    </qresource>
+</RCC>
